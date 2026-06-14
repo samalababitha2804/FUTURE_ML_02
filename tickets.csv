@@ -1,0 +1,13 @@
+Ticket,Category,Priority
+Login issue in account,Technical,High
+Payment deducted twice,Billing,High
+Need invoice copy,Billing,Medium
+Website not loading,Technical,High
+How to change password,Account,Low
+Want account information,Account,Low
+Refund not received,Billing,High
+Application crashes frequently,Technical,High
+Server not responding,Technical,High
+Unable to login,Account,Medium
+Need billing statement,Billing,Medium
+Password reset request,Account,Low
